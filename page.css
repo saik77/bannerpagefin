@@ -157,8 +157,8 @@
 }
 
 .store-img img {
-    margin-top: 80px;
-    width: 70%;
+    margin-top: 50px;
+    width: 80%;
 }
 
 #comp {
@@ -207,7 +207,6 @@
     font-family: poppins;
     font-size: 30px;
     color: #34688b;
-    
 }
 
 .bottom-right .web-app h1 {
