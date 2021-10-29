@@ -19,9 +19,9 @@
 .top-left h1 {
     text-align: center;
     margin-top: 50px;
-    color: #34688b;
+    color: #3779a5;
     font-size: 44px;
-    font-weight: 600px;
+    font-weight: 800px;
     font-family: poppins;
 }
 
@@ -182,14 +182,14 @@
 .bottom-left-data h3 {
     font-size: 26px;
     font-family: poppins;
-    color: #0ca3e1;
+    color: #58b0d3;
     margin-left: -25px;
 }
 
 .bottom-left-data ul li {
-    font-size: 22px;
+    font-size: 20px;
     font-family: poppins;
-    font-weight: 100px;
+    color: #5a5a5a;
 }
 
 .top-left .bg-img {
